@@ -7,7 +7,10 @@ Espacio para almacenar y compartir diversos ejemplos y programas estudiados en e
 ******************************************************************
 #### Prof. Gustavo Patino-Alvarez
 Departamento de Ingeniería Electrónica y Telecomunicaciones
+
 Facultad de Ingeniería
+
 Universidad de Antioquia
+
 Medellin, 2020-2025
 ******************************************************************
