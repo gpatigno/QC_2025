@@ -14,5 +14,5 @@ Facultad de Ingeniería
 
 Universidad de Antioquia
 
-Medellin, 2020-2025
+Medellin, 2020-2026
 ******************************************************************
